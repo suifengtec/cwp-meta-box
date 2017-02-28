@@ -42,13 +42,12 @@ Image Upload Field (uses WordPress media uploader)
 
 File Field (uses WordPress media uploader)
 
-##　Group & Repeat Fields
+##　Group & Repeatable Fields
 
 Group Fields
 
-Repeat Fields
 
-Repeat Group Fields
+Repeatable Group Fields
 
 ##　Utilities
 
