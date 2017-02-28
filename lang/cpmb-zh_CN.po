@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CWP-MetaBox-Class\n"
+"POT-Creation-Date: 2017-02-28 00:10+0800\n"
+"PO-Revision-Date: 2017-02-28 16:26+0800\n"
+"Last-Translator: BaInternet <admin@bainternet.info>\n"
+"Language-Team: CoolWP <hi@coolwp.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: my-meta-box-class.php:100 my-meta-box-class.php:621
+msgid "Upload File"
+msgstr "上传文件"
+
+#: my-meta-box-class.php:101 my-meta-box-class.php:619
+msgid "Remove File"
+msgstr "移除文件"
+
+#: my-meta-box-class.php:102 my-meta-box-class.php:661
+msgid "Upload Image"
+msgstr "上传图像"
+
+#: my-meta-box-class.php:103 my-meta-box-class.php:659
+msgid "Remove Image"
+msgstr "移除图像"
+
+#: my-meta-box-class.php:303
+msgid "Sort"
+msgstr "排序"
+
+#: my-meta-box-class.php:306
+msgid "Edit"
+msgstr "编辑"
+
+#: my-meta-box-class.php:306 my-meta-box-class.php:341
+msgid "Remove"
+msgstr "移除"
+
+#: my-meta-box-class.php:311
+msgid "Add"
+msgstr "添加"
+
+#: my-meta-box-class.php:683
+msgid "Select a color"
+msgstr "请选择颜色"
+
+#: my-meta-box-class.php:782
+msgid "Select ..."
+msgstr "-选择-"
+
+#: my-meta-box-class.php:1218
+msgid "Checkbox Field"
+msgstr "复选框"
+
+#: my-meta-box-class.php:1245
+msgid "Checkbox List Field"
+msgstr "复选框列表"
+
+#: my-meta-box-class.php:1269
+msgid "Textarea Field"
+msgstr "文本输入栏"
+
+#: my-meta-box-class.php:1292
+msgid "Select Field"
+msgstr "选择栏"
+
+#: my-meta-box-class.php:1315
+msgid "Radio Field"
+msgstr "单选栏"
+
+#: my-meta-box-class.php:1342
+msgid "Date Field"
+msgstr "日期选择栏"
+
+#: my-meta-box-class.php:1364
+msgid "Time Field"
+msgstr "时间选择栏"
+
+#: my-meta-box-class.php:1385
+msgid "ColorPicker Field"
+msgstr "颜色选择栏"
+
+#: my-meta-box-class.php:1405
+msgid "Image Field"
+msgstr "图片栏"
+
+#: my-meta-box-class.php:1425
+msgid "File Field"
+msgstr "文件"
+
+#: my-meta-box-class.php:1447
+msgid "WYSIWYG Editor Field"
+msgstr "所见即所得编辑器"
+
+#: my-meta-box-class.php:1483
+msgid "Taxonomy Field"
+msgstr "分类方法"
+
+#: my-meta-box-class.php:1520
+msgid "Posts Field"
+msgstr "文章"
+
+#: my-meta-box-class.php:1545
+msgid "Reapeater Field"
+msgstr "可重复输入栏"
+
+#: my-meta-box-class.php:1573
+msgid "Conditional Field"
+msgstr "条件逻辑"
+
+#: my-meta-box-class.php:1630 my-meta-box-class.php:1638
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr "抱歉，您不能上传此类型的文件。"
+
+#~ msgid "Delete this image"
+#~ msgstr "删除此图"
+
+#~ msgid "Delete"
+#~ msgstr "删除"
+
+#~ msgid "Cannot delete file. Something's wrong."
+#~ msgstr "错误：不能删除文件"
+
+#~ msgid "Uploaded files"
+#~ msgstr "已上传的文件"
+
+#~ msgid "Upload new files"
+#~ msgstr "上传文件"
+
+#~ msgid "Add more files"
+#~ msgstr "添加更多文件"
