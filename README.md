@@ -45,14 +45,18 @@ File Field (uses WordPress media uploader)
 ##　Group & Repeat Fields
 
 Group Fields
+
 Repeat Fields
+
 Repeat Group Fields
 
 ##　Utilities
 
 
 Taxonomy Select
+
 Post Select
+
 WYSIWYG Field (uses WordPress native editor)
 
 # Screenshot
