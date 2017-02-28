@@ -71,6 +71,10 @@ some screenshots as following:
 
 ![](https://raw.githubusercontent.com/suifengtec/cwp-meta-box/master/104.png)
 
+# Credit
+
+Checkbox and Radio UI is fork from WeUI by WeChat Team.
+
 # Thanks
 
 
