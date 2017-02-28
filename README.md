@@ -3,31 +3,43 @@ a WordPress custom meta box framework for developer from China with love.
 
 # Usage
 
+As this WordPress plugin.
+
 # Support filed types
 
 
 ## General
 
 Paragraph Text
+
 Text Field
+
 Number Field
+
 Textarea Field
+
 Checkbox Field
+
 Checkbox List
+
 Radio Buttons
+
 Select and multiple select (uses jQuery Select2)
+
 Color Picker
 
 
 ## Date & Time
 
 Date Picker ( HTML5, NOT use jQueryUI datepicker ) 
+
 Time Picker ( HTML5, NOT use jQueryUI timepicker addon ) 
 
 
 ## Media
 
 Image Upload Field (uses WordPress media uploader)
+
 File Field (uses WordPress media uploader)
 
 ##　Group & Repeat Fields
