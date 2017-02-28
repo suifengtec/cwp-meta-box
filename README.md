@@ -75,6 +75,8 @@ some screenshots as following:
 
 Checkbox and Radio UI is fork from WeUI by WeChat Team.
 
+Icons is using Dashicon loading in WordPress.
+
 # Thanks
 
 
