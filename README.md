@@ -61,6 +61,7 @@ WYSIWYG Field (uses WordPress native editor)
 
 # Screenshot
 
+some screenshots as following:
 
 ![](https://raw.githubusercontent.com/suifengtec/cwp-meta-box/master/102.png)
 
@@ -69,3 +70,9 @@ WYSIWYG Field (uses WordPress native editor)
 ![](https://raw.githubusercontent.com/suifengtec/cwp-meta-box/master/103.png)
 
 ![](https://raw.githubusercontent.com/suifengtec/cwp-meta-box/master/104.png)
+
+# Thanks
+
+
+![AaboutCG.org](https://raw.githubusercontent.com/suifengtec/cwp-meta-box/master/105.png)
+<http://www.aboutcg.org/>
