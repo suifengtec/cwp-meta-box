@@ -377,7 +377,7 @@ class CWP_Meta_Box {
    */
   public function show_field_begin( $field, $meta) {
     echo "<td class='cwp-mb-field'".(($this->isInGroup === true)? " valign='top'": "").">";
-    if ( $field['name'] != '' || $field['name'] != FALSE ) {
+    if ( !empty($field['name']) ) {
       echo "<div class='cwp-mb-label'>";
         echo "<label for='{$field['id']}'>{$field['name']}</label>";
       echo "</div>";
