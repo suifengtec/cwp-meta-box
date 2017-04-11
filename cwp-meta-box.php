@@ -1,7 +1,10 @@
 <?php 
 /**
- * WordPress Custom Meta Box Class for AboutCG
- * @version  1.1 基于 AT_Meta_Box http://bbs.coolwp.org/index.php?/topic/108-wordpress-metabox/
+ * WordPress Custom Meta Box Class.
+ * @version  1.2
+ */
+/*
+v 1.2 : adding addTr method.
  */
 
 if ( ! class_exists( 'CWP_Meta_Box') ) :
@@ -1206,7 +1209,26 @@ $field['options']['multiple']
       return $new_field;
     }
   }
-    
+
+  /**
+   * Adding a line to show some content.
+   * @param $id string  field id, i.e. the meta key;
+   * @param $args mixed|array     
+   *  'label' => // field name/label string optional
+   *  'value' => // content/string required
+   * @param boolean $repeater [description]
+   */
+  public function addTr($id, $args, $repeater=false ){
+    $new_field = array('type' => 'tr','id'=> $id,'label'=>  __('Label','cpmb'),  'value' => '');
+    $new_field = array_merge($new_field, $args);
+    if(false === $repeater){
+      $this->_fields[] = $new_field;
+    }else{
+      return $new_field;
+    }
+  }
+
+
   /**
    *  Add Checkbox Field to meta box
    *  @access public
